@@ -35,10 +35,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-//@Composable
-//private fun ShowList(shoppingItems: List<ShoppingItem>) {
-//
-//}
 
 @Composable
 private fun MainScreen() {
